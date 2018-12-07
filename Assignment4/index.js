@@ -8,11 +8,11 @@ const HOSTED_URLS = {
 
 const examples = {
   'example1':
-      'Alice was beginning to get very tired of sitting by her sister on the bank.',
+      'My dear Mr.Bennet,” replied his wife, “how can you be so tiresome!',
   'example2':
-      'Buda-Pesth seems a wonderful place.',
+      'Alice was beginning to get very tired of sitting by her sister on the bank.',
   'example3':
-      'Scepticism was as much the result of knowledge, as knowledge is of scepticism.'      
+      'He wanted to follow Siddhartha, the beloved, the splendid.'      
 };
 
 function status(statusText) {
